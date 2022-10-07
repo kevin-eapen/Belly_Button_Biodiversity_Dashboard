@@ -20,7 +20,7 @@ The dropdown menu allows the user to select the participant ID to filter the das
 
 **Dropdown Menu Example:**
 
-![image](dashboard_example_images/dropdown_menu_default.png)
+![image](dashboard_example_images/dropdown_menu_default.png) <br>
 ![image](dashboard_example_images/dropdown_menu_list.png)
 
 Once a participant ID is selected the elements on the dashboard will change to display data only related to the selection made. The element directly below the dropdown menu is a demographics panel that will display all the relevant demographics information for the selected participant ID. 
